@@ -1,0 +1,52 @@
+[error] TokenExpiredError: jwt expired
+    at C:\Users\ilyat\Desktop\626264323\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\ilyat\Desktop\626264323\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\ilyat\Desktop\626264323\node_modules\jsonwebtoken\verify.js:101:10)
+    at verifyAccessToken (C:\Users\ilyat\Desktop\626264323\server\dist\utils\jwt.js:26:44)
+    at resolveUser (C:\Users\ilyat\Desktop\626264323\server\dist\middleware\auth.js:19:49)
+    at requireAuth (C:\Users\ilyat\Desktop\626264323\server\dist\middleware\auth.js:54:15)
+    at Layer.handle [as handle_request] (C:\Users\ilyat\Desktop\626264323\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\ilyat\Desktop\626264323\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\ilyat\Desktop\626264323\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\ilyat\Desktop\626264323\node_modules\express\lib\router\layer.js:95:5) {
+  expiredAt: 2026-10-08T18:25:16.000Z
+}
+[error] TokenExpiredError: jwt expired
+    at C:\Users\ilyat\Desktop\626264323\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\ilyat\Desktop\626264323\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\ilyat\Desktop\626264323\node_modules\jsonwebtoken\verify.js:101:10)
+    at verifyAccessToken (C:\Users\ilyat\Desktop\626264323\server\dist\utils\jwt.js:26:44)
+    at resolveUser (C:\Users\ilyat\Desktop\626264323\server\dist\middleware\auth.js:19:49)
+    at requireAuth (C:\Users\ilyat\Desktop\626264323\server\dist\middleware\auth.js:54:15)
+    at Layer.handle [as handle_request] (C:\Users\ilyat\Desktop\626264323\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\ilyat\Desktop\626264323\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\ilyat\Desktop\626264323\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\ilyat\Desktop\626264323\node_modules\express\lib\router\layer.js:95:5) {
+  expiredAt: 2026-10-08T18:25:16.000Z
+}
+[error] TokenExpiredError: jwt expired
+    at C:\Users\ilyat\Desktop\626264323\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\ilyat\Desktop\626264323\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\ilyat\Desktop\626264323\node_modules\jsonwebtoken\verify.js:101:10)
+    at verifyAccessToken (C:\Users\ilyat\Desktop\626264323\server\dist\utils\jwt.js:26:44)
+    at resolveUser (C:\Users\ilyat\Desktop\626264323\server\dist\middleware\auth.js:19:49)
+    at requireAuth (C:\Users\ilyat\Desktop\626264323\server\dist\middleware\auth.js:54:15)
+    at Layer.handle [as handle_request] (C:\Users\ilyat\Desktop\626264323\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\ilyat\Desktop\626264323\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\ilyat\Desktop\626264323\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\ilyat\Desktop\626264323\node_modules\express\lib\router\layer.js:95:5) {
+  expiredAt: 2026-10-08T18:45:31.000Z
+}
+[error] TokenExpiredError: jwt expired
+    at C:\Users\ilyat\Desktop\626264323\node_modules\jsonwebtoken\verify.js:190:21
+    at getSecret (C:\Users\ilyat\Desktop\626264323\node_modules\jsonwebtoken\verify.js:97:14)
+    at module.exports [as verify] (C:\Users\ilyat\Desktop\626264323\node_modules\jsonwebtoken\verify.js:101:10)
+    at verifyAccessToken (C:\Users\ilyat\Desktop\626264323\server\dist\utils\jwt.js:26:44)
+    at resolveUser (C:\Users\ilyat\Desktop\626264323\server\dist\middleware\auth.js:19:49)
+    at requireAuth (C:\Users\ilyat\Desktop\626264323\server\dist\middleware\auth.js:54:15)
+    at Layer.handle [as handle_request] (C:\Users\ilyat\Desktop\626264323\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\ilyat\Desktop\626264323\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (C:\Users\ilyat\Desktop\626264323\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (C:\Users\ilyat\Desktop\626264323\node_modules\express\lib\router\layer.js:95:5) {
+  expiredAt: 2026-10-08T18:45:31.000Z
+}

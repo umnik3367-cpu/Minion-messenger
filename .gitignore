@@ -1,0 +1,35 @@
+node_modules/
+dist/
+build/
+coverage/
+*.log
+*.tsbuildinfo
+npm-debug.log*
+
+# Embedded dev database (npm run db:start)
+.pgdata/
+.pgdata.log
+.pgdata.pid
+
+# Environment (keep .env.example tracked)
+.env
+.env.local
+.env.*.local
+
+# Uploaded / generated media
+server/uploads/*
+!server/uploads/.gitkeep
+database/prisma/migrations/**/migration_lock.toml
+
+# Editor / OS
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+Thumbs.db
+
+# Vite
+client/dist/
+.vite/
+
+# Local SMTP catcher output
+.mailbox/

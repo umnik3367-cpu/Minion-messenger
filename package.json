@@ -1,0 +1,50 @@
+{
+  "name": "minion-messenger",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minion Messenger — a modern, production-ready messaging platform (Telegram + WhatsApp + Discord + Signal + AI).",
+  "workspaces": [
+    "server",
+    "client"
+  ],
+  "engines": {
+    "node": ">=18.18"
+  },
+  "scripts": {
+    "dev": "concurrently --restart-tries 3 --restart-delay 2000 --kill-others-on-fail -n db,server,client -c yellow,blue,magenta \"npm run db:start\" \"npm run dev --workspace server\" \"npm run dev --workspace client\"",
+    "build": "npm run build --workspace server && npm run build --workspace client",
+    "typecheck": "npm run typecheck --workspace server && npm run typecheck --workspace client",
+    "prisma:generate": "prisma generate --schema database/prisma/schema.prisma",
+    "prisma:migrate": "prisma migrate dev --schema database/prisma/schema.prisma",
+    "prisma:deploy": "prisma migrate deploy --schema database/prisma/schema.prisma",
+    "prisma:studio": "prisma studio --schema database/prisma/schema.prisma",
+    "prisma:seed": "tsx database/prisma/seed.ts",
+    "db:setup": "node scripts/dev-db.mjs setup",
+    "db:start": "node scripts/dev-db.mjs start",
+    "db:stop": "node scripts/dev-db.mjs stop",
+    "db:status": "node scripts/dev-db.mjs status",
+    "smoke": "node scripts/smoke.mjs",
+    "call:test": "node scripts/call-test.mjs",
+    "mail:test": "node scripts/mail-test.mjs",
+    "mail:catcher": "node scripts/smtp-catcher.mjs",
+    "ai:mock": "node scripts/mock-openai.mjs",
+    "start": "npm run start --workspace server"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "embedded-postgres": "^17.10.0-beta.17",
+    "prisma": "^5.19.1",
+    "tsx": "^4.17.0",
+    "typescript": "^5.5.4"
+  },
+  "allowScripts": {
+    "prisma@5.22.0": true,
+    "@prisma/client@5.22.0": true,
+    "@prisma/engines@5.22.0": true,
+    "esbuild@0.28.2": true,
+    "esbuild@0.21.5": true,
+    "sharp@0.33.5": true,
+    "embedded-postgres@17.10.0-beta.17": true,
+    "@embedded-postgres/windows-x64@17.10.0-beta.17": true
+  }
+}

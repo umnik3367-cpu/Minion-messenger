@@ -1,0 +1,1340 @@
+
+> client@1.0.0 dev
+> vite
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m290[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m22:39:07[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:39:07[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:39:27[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:39:27[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:39:46[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:39:46[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:40:21[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:40:21[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:40:43[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:40:43[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:40:54[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:40:54[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:41:14[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:41:14[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:41:26[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:41:26[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:41:45[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:41:45[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:44:19[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:44:19[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:44:41[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:44:41[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:46:46[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:46:46[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:47:18[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:47:18[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:47:49[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:47:49[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:47:49[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:47:49[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:48:21[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:48:21[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:48:53[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:48:53[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:49:25[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:49:25[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:52:30[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at Readable.read (node:internal/streams/readable:784:10)
+    at Socket.read (node:net:990:39)
+    at flow (node:internal/streams/readable:1290:53)
+    at emitReadable_ (node:internal/streams/readable:849:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+[2m22:55:45[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:55:45[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:58:46[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:58:46[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:58:46[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1339:18)
+    at afterConnectMultiple (node:net:1942:7)
+[2m22:58:50[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:58:50[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m22:58:51[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1339:18)
+    at afterConnectMultiple (node:net:1942:7)
+[2m22:58:51[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/health[39m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1339:18)
+    at afterConnectMultiple (node:net:1942:7)
+[2m22:58:51[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/health[39m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1339:18)
+    at afterConnectMultiple (node:net:1942:7)
+[2m22:58:51[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1339:18)
+    at afterConnectMultiple (node:net:1942:7)
+[2m22:58:53[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1339:18)
+    at afterConnectMultiple (node:net:1942:7)
+[2m22:58:53[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1339:18)
+    at afterConnectMultiple (node:net:1942:7)
+[2m22:58:55[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1339:18)
+    at afterConnectMultiple (node:net:1942:7)
+[2m22:58:56[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1339:18)
+    at afterConnectMultiple (node:net:1942:7)
+[2m22:58:58[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/health[39m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1339:18)
+    at afterConnectMultiple (node:net:1942:7)
+[2m22:58:58[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/messages/chats/cmuzu2y9j0097s77i3plytjg3/messages?limit=50[39m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1339:18)
+    at afterConnectMultiple (node:net:1942:7)
+[2m22:58:58[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/chats[39m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1339:18)
+    at afterConnectMultiple (node:net:1942:7)
+[2m22:58:59[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1339:18)
+    at afterConnectMultiple (node:net:1942:7)
+[2m22:59:01[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1339:18)
+    at afterConnectMultiple (node:net:1942:7)
+[2m22:59:01[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/messages/chats/cmuzu2y9j0097s77i3plytjg3/messages?limit=50[39m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1339:18)
+    at afterConnectMultiple (node:net:1942:7)
+[2m22:59:01[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/chats[39m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1339:18)
+    at afterConnectMultiple (node:net:1942:7)
+[2m22:59:03[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1339:18)
+    at afterConnectMultiple (node:net:1942:7)
+[2m22:59:06[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1339:18)
+    at afterConnectMultiple (node:net:1942:7)
+[2m22:59:07[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/health[39m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1339:18)
+    at afterConnectMultiple (node:net:1942:7)
+[2m22:59:07[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1339:18)
+    at afterConnectMultiple (node:net:1942:7)
+[2m22:59:11[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1339:18)
+    at afterConnectMultiple (node:net:1942:7)
+[2m23:01:02[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m23:01:02[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m23:06:21[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m23:06:21[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m23:10:07[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m23:10:16[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m23:13:40[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m23:13:51[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m23:13:56[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m23:14:09[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at Readable.read (node:internal/streams/readable:784:10)
+    at Socket.read (node:net:990:39)
+    at flow (node:internal/streams/readable:1290:53)
+    at emitReadable_ (node:internal/streams/readable:849:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+[2m23:14:09[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at Readable.read (node:internal/streams/readable:784:10)
+    at Socket.read (node:net:990:39)
+    at flow (node:internal/streams/readable:1290:53)
+    at emitReadable_ (node:internal/streams/readable:849:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)
+[2m23:15:23[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m23:18:18[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m23:27:05[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:216:20)
+[2m23:27:06[22m [31m[1m[vite][22m[39m [31mws proxy error:[39m
+AggregateError [ECONNREFUSED]: 
+    at internalConnectMultiple (node:net:1339:18)
+    at afterConnectMultiple (node:net:1942:7)
+[2m23:30:26[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m23:30:31[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m23:37:14[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m23:37:14[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m23:53:14[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n/index.tsx, /src/index.css[22m
+[2m23:53:14[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n/index.tsx[22m Could not Fast Refresh ("LANGUAGES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m23:53:14[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css, /src/pages/MessengerPage.tsx, /src/components/auth/AuthPage.tsx, /src/components/settings/LanguagePicker.tsx, /src/components/sidebar/Sidebar.tsx, /src/components/chat/ChatWindow.tsx, /src/components/ai/MinionAI.tsx, /src/components/settings/SettingsPanel.tsx, /src/components/chat/ShakeButton.tsx, /src/components/chat/MessageComposer.tsx[22m
+[2m23:53:15[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m23:53:20[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n/index.tsx, /src/index.css[22m
+[2m23:53:20[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n/index.tsx[22m Could not Fast Refresh ("LANGUAGES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m23:53:20[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css, /src/pages/MessengerPage.tsx, /src/components/auth/AuthPage.tsx, /src/components/settings/LanguagePicker.tsx, /src/components/sidebar/Sidebar.tsx, /src/components/chat/ChatWindow.tsx, /src/components/ai/MinionAI.tsx, /src/components/settings/SettingsPanel.tsx, /src/components/chat/ShakeButton.tsx, /src/components/chat/MessageComposer.tsx[22m
+[2m23:53:21[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m23:53:26[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n/index.tsx, /src/index.css[22m
+[2m23:53:26[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n/index.tsx[22m Could not Fast Refresh ("LANGUAGES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m23:53:26[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css, /src/pages/MessengerPage.tsx, /src/components/auth/AuthPage.tsx, /src/components/settings/LanguagePicker.tsx, /src/components/sidebar/Sidebar.tsx, /src/components/chat/ChatWindow.tsx, /src/components/ai/MinionAI.tsx, /src/components/settings/SettingsPanel.tsx, /src/components/chat/ShakeButton.tsx, /src/components/chat/MessageComposer.tsx[22m
+[2m23:53:26[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m23:53:31[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n/index.tsx, /src/index.css[22m
+[2m23:53:31[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n/index.tsx[22m Could not Fast Refresh ("LANGUAGES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m23:53:31[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css, /src/pages/MessengerPage.tsx, /src/components/auth/AuthPage.tsx, /src/components/settings/LanguagePicker.tsx, /src/components/sidebar/Sidebar.tsx, /src/components/chat/ChatWindow.tsx, /src/components/ai/MinionAI.tsx, /src/components/settings/SettingsPanel.tsx, /src/components/chat/ShakeButton.tsx, /src/components/chat/MessageComposer.tsx[22m
+[2m23:53:32[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m23:53:37[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n/index.tsx, /src/index.css[22m
+[2m23:53:37[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n/index.tsx[22m Could not Fast Refresh ("LANGUAGES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m23:53:37[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css, /src/pages/MessengerPage.tsx, /src/components/auth/AuthPage.tsx, /src/components/settings/LanguagePicker.tsx, /src/components/sidebar/Sidebar.tsx, /src/components/chat/ChatWindow.tsx, /src/components/ai/MinionAI.tsx, /src/components/settings/SettingsPanel.tsx, /src/components/chat/ShakeButton.tsx, /src/components/chat/MessageComposer.tsx[22m
+[2m23:53:37[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m23:53:43[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n/index.tsx, /src/index.css[22m
+[2m23:53:43[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n/index.tsx[22m Could not Fast Refresh ("LANGUAGES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m23:53:43[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css, /src/pages/MessengerPage.tsx, /src/components/auth/AuthPage.tsx, /src/components/settings/LanguagePicker.tsx, /src/components/sidebar/Sidebar.tsx, /src/components/chat/ChatWindow.tsx, /src/components/ai/MinionAI.tsx, /src/components/settings/SettingsPanel.tsx, /src/components/chat/ShakeButton.tsx, /src/components/chat/MessageComposer.tsx[22m
+[2m23:54:23[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/auth/AuthPage.tsx, /src/index.css[22m
+[2m00:01:10[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n/index.tsx, /src/index.css[22m
+[2m00:01:10[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n/index.tsx[22m Could not Fast Refresh ("LANGUAGES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m00:01:10[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css, /src/pages/MessengerPage.tsx, /src/components/auth/AuthPage.tsx, /src/components/settings/LanguagePicker.tsx, /src/components/sidebar/Sidebar.tsx, /src/components/chat/ChatWindow.tsx, /src/components/ai/MinionAI.tsx, /src/components/settings/SettingsPanel.tsx, /src/components/chat/ShakeButton.tsx, /src/components/chat/MessageComposer.tsx[22m
+[2m00:01:20[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n/index.tsx, /src/index.css[22m
+[2m00:01:20[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n/index.tsx[22m Could not Fast Refresh ("LANGUAGES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m00:01:20[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css, /src/pages/MessengerPage.tsx, /src/components/auth/AuthPage.tsx, /src/components/settings/LanguagePicker.tsx, /src/components/sidebar/Sidebar.tsx, /src/components/chat/ChatWindow.tsx, /src/components/ai/MinionAI.tsx, /src/components/settings/SettingsPanel.tsx, /src/components/chat/ShakeButton.tsx, /src/components/chat/MessageComposer.tsx[22m
+[2m00:01:21[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:02:45[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/auth/AuthPage.tsx, /src/index.css[22m
+[2m00:02:47[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/auth/AuthPage.tsx, /src/index.css[22m
+[2m00:02:47[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:02:49[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/auth/AuthPage.tsx, /src/index.css[22m
+[2m00:02:49[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:02:51[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/auth/AuthPage.tsx, /src/index.css[22m
+[2m00:02:51[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:02:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/auth/AuthPage.tsx, /src/index.css[22m
+[2m00:03:07[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/auth/AuthPage.tsx, /src/index.css[22m
+[2m00:03:17[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/auth/AuthPage.tsx, /src/index.css[22m
+[2m00:03:41[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/auth/AuthPage.tsx, /src/index.css[22m
+[2m00:03:49[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/auth/AuthPage.tsx, /src/index.css[22m
+[2m00:03:51[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/auth/AuthPage.tsx, /src/index.css[22m
+[2m00:03:53[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/auth/AuthPage.tsx, /src/index.css[22m
+[2m00:04:37[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n/index.tsx, /src/index.css[22m
+[2m00:04:37[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate key "chat.editing" in object literal[33m
+239|    'chat.aiExpand': 'Expand into ideas',
+240|    'chat.writeFirst': 'Write something first, then ask Minion AI ✍️',
+241|    'chat.editing': 'Editing',
+   |    ^
+242|    'chat.replyTo': 'Reply to {name}',
+243|    'chat.send': 'Send'
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/i18n/index.tsx[39m
+[2m00:04:37[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate key "chat.replyTo" in object literal[33m
+240|    'chat.writeFirst': 'Write something first, then ask Minion AI ✍️',
+241|    'chat.editing': 'Editing',
+242|    'chat.replyTo': 'Reply to {name}',
+   |    ^
+243|    'chat.send': 'Send'
+244|  };
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/i18n/index.tsx[39m
+[2m00:04:37[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate key "chat.send" in object literal[33m
+241|    'chat.editing': 'Editing',
+242|    'chat.replyTo': 'Reply to {name}',
+243|    'chat.send': 'Send'
+   |    ^
+244|  };
+245|  type Dict = Record<keyof typeof en, string>;
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/i18n/index.tsx[39m
+[2m00:04:37[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n/index.tsx[22m Could not Fast Refresh ("LANGUAGES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m00:04:37[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css, /src/pages/MessengerPage.tsx, /src/components/auth/AuthPage.tsx, /src/components/settings/LanguagePicker.tsx, /src/components/sidebar/Sidebar.tsx, /src/components/chat/ChatWindow.tsx, /src/components/ai/MinionAI.tsx, /src/components/settings/SettingsPanel.tsx, /src/components/chat/ShakeButton.tsx, /src/components/chat/MessageComposer.tsx[22m
+[2m00:04:37[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:04:39[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n/index.tsx, /src/index.css[22m
+[2m00:04:39[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate key "chat.editing" in object literal[33m
+239|    'chat.aiExpand': 'Expand into ideas',
+240|    'chat.writeFirst': 'Write something first, then ask Minion AI ✍️',
+241|    'chat.editing': 'Editing',
+   |    ^
+242|    'chat.replyTo': 'Reply to {name}',
+243|    'chat.send': 'Send'
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/i18n/index.tsx[39m
+[2m00:04:39[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate key "chat.replyTo" in object literal[33m
+240|    'chat.writeFirst': 'Write something first, then ask Minion AI ✍️',
+241|    'chat.editing': 'Editing',
+242|    'chat.replyTo': 'Reply to {name}',
+   |    ^
+243|    'chat.send': 'Send'
+244|  };
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/i18n/index.tsx[39m
+[2m00:04:39[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate key "chat.send" in object literal[33m
+241|    'chat.editing': 'Editing',
+242|    'chat.replyTo': 'Reply to {name}',
+243|    'chat.send': 'Send'
+   |    ^
+244|  };
+245|  type Dict = Record<keyof typeof en, string>;
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/i18n/index.tsx[39m
+[2m00:04:39[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate key "chat.editing" in object literal[33m
+453|    'chat.aiExpand': 'Превратить в идеи',
+454|    'chat.writeFirst': 'Сначала напишите что-нибудь, затем попросите Minion AI ✍️',
+455|    'chat.editing': 'Редактирование',
+   |    ^
+456|    'chat.replyTo': 'Ответ {name}',
+457|    'chat.send': 'Отправить'
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/i18n/index.tsx[39m
+[2m00:04:39[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate key "chat.replyTo" in object literal[33m
+454|    'chat.writeFirst': 'Сначала напишите что-нибудь, затем попросите Minion AI ✍️',
+455|    'chat.editing': 'Редактирование',
+456|    'chat.replyTo': 'Ответ {name}',
+   |    ^
+457|    'chat.send': 'Отправить'
+458|  };
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/i18n/index.tsx[39m
+[2m00:04:39[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate key "chat.send" in object literal[33m
+455|    'chat.editing': 'Редактирование',
+456|    'chat.replyTo': 'Ответ {name}',
+457|    'chat.send': 'Отправить'
+   |    ^
+458|  };
+459|  
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/i18n/index.tsx[39m
+[2m00:04:39[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n/index.tsx[22m Could not Fast Refresh ("LANGUAGES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m00:04:39[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css, /src/pages/MessengerPage.tsx, /src/components/auth/AuthPage.tsx, /src/components/settings/LanguagePicker.tsx, /src/components/sidebar/Sidebar.tsx, /src/components/chat/ChatWindow.tsx, /src/components/ai/MinionAI.tsx, /src/components/settings/SettingsPanel.tsx, /src/components/chat/ShakeButton.tsx, /src/components/chat/MessageComposer.tsx[22m
+[2m00:04:39[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:04:50[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/chat/MessageComposer.tsx, /src/index.css[22m
+[2m00:04:52[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/chat/MessageComposer.tsx, /src/index.css[22m
+[2m00:04:54[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/chat/MessageComposer.tsx, /src/index.css[22m
+[2m00:05:09[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/chat/MessageComposer.tsx, /src/index.css[22m
+[2m00:05:11[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/chat/MessageComposer.tsx, /src/index.css[22m
+[2m00:05:13[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/chat/MessageComposer.tsx, /src/index.css[22m
+[2m00:05:15[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/chat/MessageComposer.tsx, /src/index.css[22m
+[2m00:05:17[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/chat/MessageComposer.tsx, /src/index.css[22m
+[2m00:05:25[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:05:25[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:05:33[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/chat/MessageComposer.tsx, /src/index.css[22m
+[2m00:05:52[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/chat/NewChatModal.tsx, /src/index.css[22m
+[2m00:05:54[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/chat/NewChatModal.tsx, /src/index.css[22m
+[2m00:05:56[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/chat/NewChatModal.tsx, /src/index.css[22m
+[2m00:05:58[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:05:58[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:05:58[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:05:58[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/chat/NewChatModal.tsx, /src/index.css[22m
+[2m00:06:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/chat/NewChatModal.tsx, /src/index.css[22m
+[2m00:06:10[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/chat/NewChatModal.tsx, /src/index.css[22m
+[2m00:06:12[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/chat/NewChatModal.tsx, /src/index.css[22m
+[2m00:06:21[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/chat/NewChatModal.tsx, /src/index.css[22m
+[2m00:06:21[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\ilyat\Desktop\626264323\client\src\components\chat\NewChatModal.tsx: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (203:14)
+
+[0m [90m 201 |[31m                 ))}
+ [90m 202 |[31m                 {contacts[33m.[31mlength [33m===[31m [35m0[31m [33m&&[31m [33m<[31m[33mp[31m className[33m=[31m[32m"text-xs text-on-muted text-center py-3"[31m[33m>[31m{t([32m'newchat.addContactsFirst'[31m)}[33m<[31m[33m/[31m[33mp[31m[33m>[31m
+[31m[1m>[22m[31m[90m 203 |[31m               [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m     |[31m               [31m[1m^[22m[31m
+ [90m 204 |[31m             [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m 205 |[31m             [33m<[31m[33mButton[31m onClick[33m=[31m{() [33m=>[31m [36mvoid[31m createGroupish()} loading[33m=[31m{busy} className[33m=[31m[32m"w-full"[31m size[33m=[31m[32m"lg"[31m[33m>[31m
+ [90m 206 |[31m               {tab [33m===[31m [32m'group'[31m [33m?[31m t([32m'newchat.createGroup'[31m) [33m:[31m t([32m'newchat.createChannel'[31m)}[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/components/chat/NewChatModal.tsx[39m:203:14
+[33m  204|              </div>
+  205|              <Button onClick={() => void createGroupish()} loading={busy} className="w-full" size="lg">
+  206|                {tab === 'group' ? t('newchat.createGroup') : t('newchat.createChannel')}
+     |                                                                           ^
+  207|              </Button>
+  208|            </>[39m
+      at constructor (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:369:19)
+      at TypeScriptParserMixin.raise (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:6622:19)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4760:18)
+      at TypeScriptParserMixin.jsxParseElement (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4767:17)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4777:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11107:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11092:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11072:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9860:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10925:61)
+      at TypeScriptParserMixin.parseExprOpBaseRightExpr (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11012:34)
+      at TypeScriptParserMixin.parseExprOpRightExpr (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11007:21)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10973:27)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9329:18)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10979:21)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9329:18)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10934:17)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10907:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10857:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9809:20)
+      at TypeScriptParserMixin.parseExpressionBase (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10810:23)
+      at C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10806:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:12460:12)
+      at TypeScriptParserMixin.parseExpression (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10806:17)
+      at TypeScriptParserMixin.jsxParseExpressionContainer (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4650:31)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4729:36)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4716:32)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4716:32)
+      at TypeScriptParserMixin.jsxParseElement (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4767:17)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4777:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11107:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11092:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11072:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9860:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10925:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10930:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10907:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10857:21)
+      at C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9798:39
+      at TypeScriptParserMixin.tryParse (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:6930:20)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9798:18)
+      at C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10826:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:12460:12)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10826:17)
+      at TypeScriptParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:12527:17)
+      at TypeScriptParserMixin.parseParenAndDistinguishExpression (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11706:28)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11362:23)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4782:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11107:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11092:21)
+[2m00:06:23[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/chat/NewChatModal.tsx, /src/index.css[22m
+[2m00:06:23[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\ilyat\Desktop\626264323\client\src\components\chat\NewChatModal.tsx: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (203:14)
+
+[0m [90m 201 |[31m                 ))}
+ [90m 202 |[31m                 {contacts[33m.[31mlength [33m===[31m [35m0[31m [33m&&[31m [33m<[31m[33mp[31m className[33m=[31m[32m"text-xs text-on-muted text-center py-3"[31m[33m>[31m{t([32m'newchat.addContactsFirst'[31m)}[33m<[31m[33m/[31m[33mp[31m[33m>[31m
+[31m[1m>[22m[31m[90m 203 |[31m               [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m     |[31m               [31m[1m^[22m[31m
+ [90m 204 |[31m             [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m 205 |[31m             [33m<[31m[33mButton[31m onClick[33m=[31m{() [33m=>[31m [36mvoid[31m createGroupish()} loading[33m=[31m{busy} className[33m=[31m[32m"w-full"[31m size[33m=[31m[32m"lg"[31m[33m>[31m
+ [90m 206 |[31m               {tab [33m===[31m [32m'group'[31m [33m?[31m t([32m'newchat.createGroup'[31m) [33m:[31m t([32m'newchat.createChannel'[31m)}[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/components/chat/NewChatModal.tsx[39m:203:14
+[33m  204|              </div>
+  205|              <Button onClick={() => void createGroupish()} loading={busy} className="w-full" size="lg">
+  206|                {tab === 'group' ? t('newchat.createGroup') : t('newchat.createChannel')}
+     |                                                                           ^
+  207|              </Button>
+  208|            </>[39m
+      at constructor (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:369:19)
+      at TypeScriptParserMixin.raise (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:6622:19)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4760:18)
+      at TypeScriptParserMixin.jsxParseElement (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4767:17)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4777:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11107:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11092:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11072:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9860:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10925:61)
+      at TypeScriptParserMixin.parseExprOpBaseRightExpr (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11012:34)
+      at TypeScriptParserMixin.parseExprOpRightExpr (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11007:21)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10973:27)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9329:18)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10979:21)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9329:18)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10934:17)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10907:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10857:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9809:20)
+      at TypeScriptParserMixin.parseExpressionBase (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10810:23)
+      at C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10806:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:12460:12)
+      at TypeScriptParserMixin.parseExpression (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10806:17)
+      at TypeScriptParserMixin.jsxParseExpressionContainer (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4650:31)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4729:36)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4716:32)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4716:32)
+      at TypeScriptParserMixin.jsxParseElement (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4767:17)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4777:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11107:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11092:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11072:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9860:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10925:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10930:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10907:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10857:21)
+      at C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9798:39
+      at TypeScriptParserMixin.tryParse (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:6930:20)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9798:18)
+      at C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10826:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:12460:12)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10826:17)
+      at TypeScriptParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:12527:17)
+      at TypeScriptParserMixin.parseParenAndDistinguishExpression (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11706:28)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11362:23)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4782:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11107:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11092:21)
+[2m00:07:16[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n/index.tsx, /src/index.css[22m
+[2m00:07:16[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate key "chat.editing" in object literal[33m
+239|    'chat.aiExpand': 'Expand into ideas',
+240|    'chat.writeFirst': 'Write something first, then ask Minion AI ✍️',
+241|    'chat.editing': 'Editing',
+   |    ^
+242|    'chat.replyTo': 'Reply to {name}',
+243|    'chat.send': 'Send'
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/i18n/index.tsx[39m
+[2m00:07:16[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate key "chat.replyTo" in object literal[33m
+240|    'chat.writeFirst': 'Write something first, then ask Minion AI ✍️',
+241|    'chat.editing': 'Editing',
+242|    'chat.replyTo': 'Reply to {name}',
+   |    ^
+243|    'chat.send': 'Send'
+244|  };
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/i18n/index.tsx[39m
+[2m00:07:16[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate key "chat.send" in object literal[33m
+241|    'chat.editing': 'Editing',
+242|    'chat.replyTo': 'Reply to {name}',
+243|    'chat.send': 'Send'
+   |    ^
+244|  };
+245|  type Dict = Record<keyof typeof en, string>;
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/i18n/index.tsx[39m
+[2m00:07:16[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate key "chat.editing" in object literal[33m
+453|    'chat.aiExpand': 'Превратить в идеи',
+454|    'chat.writeFirst': 'Сначала напишите что-нибудь, затем попросите Minion AI ✍️',
+455|    'chat.editing': 'Редактирование',
+   |    ^
+456|    'chat.replyTo': 'Ответ {name}',
+457|    'chat.send': 'Отправить'
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/i18n/index.tsx[39m
+[2m00:07:16[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate key "chat.replyTo" in object literal[33m
+454|    'chat.writeFirst': 'Сначала напишите что-нибудь, затем попросите Minion AI ✍️',
+455|    'chat.editing': 'Редактирование',
+456|    'chat.replyTo': 'Ответ {name}',
+   |    ^
+457|    'chat.send': 'Отправить'
+458|  };
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/i18n/index.tsx[39m
+[2m00:07:16[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate key "chat.send" in object literal[33m
+455|    'chat.editing': 'Редактирование',
+456|    'chat.replyTo': 'Ответ {name}',
+457|    'chat.send': 'Отправить'
+   |    ^
+458|  };
+459|  
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/i18n/index.tsx[39m
+[2m00:07:16[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n/index.tsx[22m Could not Fast Refresh ("LANGUAGES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m00:07:16[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css, /src/pages/MessengerPage.tsx, /src/components/auth/AuthPage.tsx, /src/components/settings/LanguagePicker.tsx, /src/components/sidebar/Sidebar.tsx, /src/components/chat/ChatWindow.tsx, /src/components/ai/MinionAI.tsx, /src/components/settings/SettingsPanel.tsx, /src/components/chat/ShakeButton.tsx, /src/components/chat/MessageComposer.tsx, /src/components/chat/NewChatModal.tsx[22m
+[2m00:07:16[22m [31m[1m[vite][22m[39m Pre-transform error: C:\Users\ilyat\Desktop\626264323\client\src\components\chat\NewChatModal.tsx: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (203:14)
+
+[0m [90m 201 |[39m                 ))}
+ [90m 202 |[39m                 {contacts[33m.[39mlength [33m===[39m [35m0[39m [33m&&[39m [33m<[39m[33mp[39m className[33m=[39m[32m"text-xs text-on-muted text-center py-3"[39m[33m>[39m{t([32m'newchat.addContactsFirst'[39m)}[33m<[39m[33m/[39m[33mp[39m[33m>[39m
+[31m[1m>[22m[39m[90m 203 |[39m               [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+ [90m     |[39m               [31m[1m^[22m[39m
+ [90m 204 |[39m             [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+ [90m 205 |[39m             [33m<[39m[33mButton[39m onClick[33m=[39m{() [33m=>[39m [36mvoid[39m createGroupish()} loading[33m=[39m{busy} className[33m=[39m[32m"w-full"[39m size[33m=[39m[32m"lg"[39m[33m>[39m
+ [90m 206 |[39m               {tab [33m===[39m [32m'group'[39m [33m?[39m t([32m'newchat.createGroup'[39m) [33m:[39m t([32m'newchat.createChannel'[39m)}[0m
+[2m00:07:16[22m [31m[1m[vite][22m[39m Pre-transform error: C:\Users\ilyat\Desktop\626264323\client\src\components\chat\NewChatModal.tsx: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (203:14)
+
+[0m [90m 201 |[39m                 ))}
+ [90m 202 |[39m                 {contacts[33m.[39mlength [33m===[39m [35m0[39m [33m&&[39m [33m<[39m[33mp[39m className[33m=[39m[32m"text-xs text-on-muted text-center py-3"[39m[33m>[39m{t([32m'newchat.addContactsFirst'[39m)}[33m<[39m[33m/[39m[33mp[39m[33m>[39m
+[31m[1m>[22m[39m[90m 203 |[39m               [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+ [90m     |[39m               [31m[1m^[22m[39m
+ [90m 204 |[39m             [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+ [90m 205 |[39m             [33m<[39m[33mButton[39m onClick[33m=[39m{() [33m=>[39m [36mvoid[39m createGroupish()} loading[33m=[39m{busy} className[33m=[39m[32m"w-full"[39m size[33m=[39m[32m"lg"[39m[33m>[39m
+ [90m 206 |[39m               {tab [33m===[39m [32m'group'[39m [33m?[39m t([32m'newchat.createGroup'[39m) [33m:[39m t([32m'newchat.createChannel'[39m)}[0m
+[2m00:07:17[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\ilyat\Desktop\626264323\client\src\components\chat\NewChatModal.tsx: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (203:14)
+
+[0m [90m 201 |[31m                 ))}
+ [90m 202 |[31m                 {contacts[33m.[31mlength [33m===[31m [35m0[31m [33m&&[31m [33m<[31m[33mp[31m className[33m=[31m[32m"text-xs text-on-muted text-center py-3"[31m[33m>[31m{t([32m'newchat.addContactsFirst'[31m)}[33m<[31m[33m/[31m[33mp[31m[33m>[31m
+[31m[1m>[22m[31m[90m 203 |[31m               [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m     |[31m               [31m[1m^[22m[31m
+ [90m 204 |[31m             [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m 205 |[31m             [33m<[31m[33mButton[31m onClick[33m=[31m{() [33m=>[31m [36mvoid[31m createGroupish()} loading[33m=[31m{busy} className[33m=[31m[32m"w-full"[31m size[33m=[31m[32m"lg"[31m[33m>[31m
+ [90m 206 |[31m               {tab [33m===[31m [32m'group'[31m [33m?[31m t([32m'newchat.createGroup'[31m) [33m:[31m t([32m'newchat.createChannel'[31m)}[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/components/chat/NewChatModal.tsx[39m:203:14
+[33m  204|              </div>
+  205|              <Button onClick={() => void createGroupish()} loading={busy} className="w-full" size="lg">
+  206|                {tab === 'group' ? t('newchat.createGroup') : t('newchat.createChannel')}
+     |                                                                           ^
+  207|              </Button>
+  208|            </>[39m
+      at constructor (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:369:19)
+      at TypeScriptParserMixin.raise (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:6622:19)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4760:18)
+      at TypeScriptParserMixin.jsxParseElement (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4767:17)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4777:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11107:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11092:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11072:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9860:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10925:61)
+      at TypeScriptParserMixin.parseExprOpBaseRightExpr (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11012:34)
+      at TypeScriptParserMixin.parseExprOpRightExpr (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11007:21)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10973:27)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9329:18)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10979:21)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9329:18)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10934:17)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10907:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10857:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9809:20)
+      at TypeScriptParserMixin.parseExpressionBase (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10810:23)
+      at C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10806:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:12460:12)
+      at TypeScriptParserMixin.parseExpression (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10806:17)
+      at TypeScriptParserMixin.jsxParseExpressionContainer (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4650:31)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4729:36)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4716:32)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4716:32)
+      at TypeScriptParserMixin.jsxParseElement (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4767:17)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4777:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11107:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11092:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11072:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9860:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10925:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10930:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10907:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10857:21)
+      at C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9798:39
+      at TypeScriptParserMixin.tryParse (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:6930:20)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9798:18)
+      at C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10826:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:12460:12)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10826:17)
+      at TypeScriptParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:12527:17)
+      at TypeScriptParserMixin.parseParenAndDistinguishExpression (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11706:28)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11362:23)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4782:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11107:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11092:21)
+[2m00:07:18[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n/index.tsx, /src/index.css[22m
+[2m00:07:18[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate key "chat.editing" in object literal[33m
+239|    'chat.aiExpand': 'Expand into ideas',
+240|    'chat.writeFirst': 'Write something first, then ask Minion AI ✍️',
+241|    'chat.editing': 'Editing',
+   |    ^
+242|    'chat.replyTo': 'Reply to {name}',
+243|    'chat.send': 'Send'
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/i18n/index.tsx[39m
+[2m00:07:18[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate key "chat.replyTo" in object literal[33m
+240|    'chat.writeFirst': 'Write something first, then ask Minion AI ✍️',
+241|    'chat.editing': 'Editing',
+242|    'chat.replyTo': 'Reply to {name}',
+   |    ^
+243|    'chat.send': 'Send'
+244|  };
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/i18n/index.tsx[39m
+[2m00:07:18[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate key "chat.send" in object literal[33m
+241|    'chat.editing': 'Editing',
+242|    'chat.replyTo': 'Reply to {name}',
+243|    'chat.send': 'Send'
+   |    ^
+244|  };
+245|  type Dict = Record<keyof typeof en, string>;
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/i18n/index.tsx[39m
+[2m00:07:18[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate key "chat.editing" in object literal[33m
+453|    'chat.aiExpand': 'Превратить в идеи',
+454|    'chat.writeFirst': 'Сначала напишите что-нибудь, затем попросите Minion AI ✍️',
+455|    'chat.editing': 'Редактирование',
+   |    ^
+456|    'chat.replyTo': 'Ответ {name}',
+457|    'chat.send': 'Отправить'
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/i18n/index.tsx[39m
+[2m00:07:18[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate key "chat.replyTo" in object literal[33m
+454|    'chat.writeFirst': 'Сначала напишите что-нибудь, затем попросите Minion AI ✍️',
+455|    'chat.editing': 'Редактирование',
+456|    'chat.replyTo': 'Ответ {name}',
+   |    ^
+457|    'chat.send': 'Отправить'
+458|  };
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/i18n/index.tsx[39m
+[2m00:07:18[22m [33m[1m[vite][22m[39m [33mwarning: [33mDuplicate key "chat.send" in object literal[33m
+455|    'chat.editing': 'Редактирование',
+456|    'chat.replyTo': 'Ответ {name}',
+457|    'chat.send': 'Отправить'
+   |    ^
+458|  };
+459|  
+[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/i18n/index.tsx[39m
+[2m00:07:18[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n/index.tsx[22m Could not Fast Refresh ("LANGUAGES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m00:07:18[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css, /src/pages/MessengerPage.tsx, /src/components/auth/AuthPage.tsx, /src/components/settings/LanguagePicker.tsx, /src/components/sidebar/Sidebar.tsx, /src/components/chat/ChatWindow.tsx, /src/components/ai/MinionAI.tsx, /src/components/settings/SettingsPanel.tsx, /src/components/chat/ShakeButton.tsx, /src/components/chat/MessageComposer.tsx, /src/components/chat/NewChatModal.tsx[22m
+[2m00:07:18[22m [31m[1m[vite][22m[39m Pre-transform error: C:\Users\ilyat\Desktop\626264323\client\src\components\chat\NewChatModal.tsx: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (203:14)
+
+[0m [90m 201 |[39m                 ))}
+ [90m 202 |[39m                 {contacts[33m.[39mlength [33m===[39m [35m0[39m [33m&&[39m [33m<[39m[33mp[39m className[33m=[39m[32m"text-xs text-on-muted text-center py-3"[39m[33m>[39m{t([32m'newchat.addContactsFirst'[39m)}[33m<[39m[33m/[39m[33mp[39m[33m>[39m
+[31m[1m>[22m[39m[90m 203 |[39m               [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+ [90m     |[39m               [31m[1m^[22m[39m
+ [90m 204 |[39m             [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+ [90m 205 |[39m             [33m<[39m[33mButton[39m onClick[33m=[39m{() [33m=>[39m [36mvoid[39m createGroupish()} loading[33m=[39m{busy} className[33m=[39m[32m"w-full"[39m size[33m=[39m[32m"lg"[39m[33m>[39m
+ [90m 206 |[39m               {tab [33m===[39m [32m'group'[39m [33m?[39m t([32m'newchat.createGroup'[39m) [33m:[39m t([32m'newchat.createChannel'[39m)}[0m
+[2m00:07:19[22m [31m[1m[vite][22m[39m Pre-transform error: C:\Users\ilyat\Desktop\626264323\client\src\components\chat\NewChatModal.tsx: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (203:14)
+
+[0m [90m 201 |[39m                 ))}
+ [90m 202 |[39m                 {contacts[33m.[39mlength [33m===[39m [35m0[39m [33m&&[39m [33m<[39m[33mp[39m className[33m=[39m[32m"text-xs text-on-muted text-center py-3"[39m[33m>[39m{t([32m'newchat.addContactsFirst'[39m)}[33m<[39m[33m/[39m[33mp[39m[33m>[39m
+[31m[1m>[22m[39m[90m 203 |[39m               [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+ [90m     |[39m               [31m[1m^[22m[39m
+ [90m 204 |[39m             [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m
+ [90m 205 |[39m             [33m<[39m[33mButton[39m onClick[33m=[39m{() [33m=>[39m [36mvoid[39m createGroupish()} loading[33m=[39m{busy} className[33m=[39m[32m"w-full"[39m size[33m=[39m[32m"lg"[39m[33m>[39m
+ [90m 206 |[39m               {tab [33m===[39m [32m'group'[39m [33m?[39m t([32m'newchat.createGroup'[39m) [33m:[39m t([32m'newchat.createChannel'[39m)}[0m
+[2m00:07:19[22m [31m[1m[vite][22m[39m [31mInternal server error: C:\Users\ilyat\Desktop\626264323\client\src\components\chat\NewChatModal.tsx: Adjacent JSX elements must be wrapped in an enclosing tag. Did you want a JSX fragment <>...</>? (203:14)
+
+[0m [90m 201 |[31m                 ))}
+ [90m 202 |[31m                 {contacts[33m.[31mlength [33m===[31m [35m0[31m [33m&&[31m [33m<[31m[33mp[31m className[33m=[31m[32m"text-xs text-on-muted text-center py-3"[31m[33m>[31m{t([32m'newchat.addContactsFirst'[31m)}[33m<[31m[33m/[31m[33mp[31m[33m>[31m
+[31m[1m>[22m[31m[90m 203 |[31m               [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m     |[31m               [31m[1m^[22m[31m
+ [90m 204 |[31m             [33m<[31m[33m/[31m[33mdiv[31m[33m>[31m
+ [90m 205 |[31m             [33m<[31m[33mButton[31m onClick[33m=[31m{() [33m=>[31m [36mvoid[31m createGroupish()} loading[33m=[31m{busy} className[33m=[31m[32m"w-full"[31m size[33m=[31m[32m"lg"[31m[33m>[31m
+ [90m 206 |[31m               {tab [33m===[31m [32m'group'[31m [33m?[31m t([32m'newchat.createGroup'[31m) [33m:[31m t([32m'newchat.createChannel'[31m)}[0m[39m
+  Plugin: [35mvite:react-babel[39m
+  File: [36mC:/Users/ilyat/Desktop/626264323/client/src/components/chat/NewChatModal.tsx[39m:203:14
+[33m  204|              </div>
+  205|              <Button onClick={() => void createGroupish()} loading={busy} className="w-full" size="lg">
+  206|                {tab === 'group' ? t('newchat.createGroup') : t('newchat.createChannel')}
+     |                                                                           ^
+  207|              </Button>
+  208|            </>[39m
+      at constructor (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:369:19)
+      at TypeScriptParserMixin.raise (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:6622:19)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4760:18)
+      at TypeScriptParserMixin.jsxParseElement (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4767:17)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4777:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11107:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11092:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11072:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9860:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10925:61)
+      at TypeScriptParserMixin.parseExprOpBaseRightExpr (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11012:34)
+      at TypeScriptParserMixin.parseExprOpRightExpr (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11007:21)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10973:27)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9329:18)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10979:21)
+      at TypeScriptParserMixin.parseExprOp (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9329:18)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10934:17)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10907:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10857:21)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9809:20)
+      at TypeScriptParserMixin.parseExpressionBase (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10810:23)
+      at C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10806:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:12460:12)
+      at TypeScriptParserMixin.parseExpression (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10806:17)
+      at TypeScriptParserMixin.jsxParseExpressionContainer (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4650:31)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4729:36)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4716:32)
+      at TypeScriptParserMixin.jsxParseElementAt (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4716:32)
+      at TypeScriptParserMixin.jsxParseElement (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4767:17)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4777:19)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11107:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11092:21)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11072:23)
+      at TypeScriptParserMixin.parseMaybeUnary (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9860:18)
+      at TypeScriptParserMixin.parseMaybeUnaryOrPrivate (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10925:61)
+      at TypeScriptParserMixin.parseExprOps (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10930:23)
+      at TypeScriptParserMixin.parseMaybeConditional (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10907:23)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10857:21)
+      at C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9798:39
+      at TypeScriptParserMixin.tryParse (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:6930:20)
+      at TypeScriptParserMixin.parseMaybeAssign (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:9798:18)
+      at C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10826:39
+      at TypeScriptParserMixin.allowInAnd (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:12460:12)
+      at TypeScriptParserMixin.parseMaybeAssignAllowIn (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:10826:17)
+      at TypeScriptParserMixin.parseMaybeAssignAllowInOrVoidPattern (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:12527:17)
+      at TypeScriptParserMixin.parseParenAndDistinguishExpression (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11706:28)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11362:23)
+      at TypeScriptParserMixin.parseExprAtom (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:4782:20)
+      at TypeScriptParserMixin.parseExprSubscripts (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11107:23)
+      at TypeScriptParserMixin.parseUpdate (C:\Users\ilyat\Desktop\626264323\node_modules\@babel\parser\lib\index.js:11092:21)
+[2m00:07:48[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/chat/NewChatModal.tsx, /src/index.css[22m
+[2m00:08:22[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n/index.tsx, /src/index.css[22m
+[2m00:08:22[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n/index.tsx[22m Could not Fast Refresh ("LANGUAGES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m00:08:22[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css, /src/pages/MessengerPage.tsx, /src/components/auth/AuthPage.tsx, /src/components/settings/LanguagePicker.tsx, /src/components/sidebar/Sidebar.tsx, /src/components/chat/ChatWindow.tsx, /src/components/ai/MinionAI.tsx, /src/components/settings/SettingsPanel.tsx, /src/components/chat/ShakeButton.tsx, /src/components/chat/MessageComposer.tsx, /src/components/chat/NewChatModal.tsx[22m
+[2m00:08:23[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:09:16[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/chat/MessageComposer.tsx, /src/index.css[22m
+[2m00:09:23[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n/index.tsx, /src/index.css[22m
+[2m00:09:23[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n/index.tsx[22m Could not Fast Refresh ("LANGUAGES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m00:09:23[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css, /src/pages/MessengerPage.tsx, /src/components/auth/AuthPage.tsx, /src/components/settings/LanguagePicker.tsx, /src/components/sidebar/Sidebar.tsx, /src/components/chat/ChatWindow.tsx, /src/components/ai/MinionAI.tsx, /src/components/settings/SettingsPanel.tsx, /src/components/chat/ShakeButton.tsx, /src/components/chat/MessageComposer.tsx, /src/components/chat/NewChatModal.tsx[22m
+[2m00:09:23[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at addChunk (node:internal/streams/readable:563:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:514:3)
+    at Readable.push (node:internal/streams/readable:394:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m00:09:25[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/i18n/index.tsx, /src/index.css[22m
+[2m00:09:25[22m [36m[1m[vite][22m[39m [33mhmr invalidate [39m[2m/src/i18n/index.tsx[22m Could not Fast Refresh ("LANGUAGES" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m00:09:25[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/index.css, /src/pages/MessengerPage.tsx, /src/components/auth/AuthPage.tsx, /src/components/settings/LanguagePicker.tsx, /src/components/sidebar/Sidebar.tsx, /src/components/chat/ChatWindow.tsx, /src/components/ai/MinionAI.tsx, /src/components/settings/SettingsPanel.tsx, /src/components/chat/ShakeButton.tsx, /src/components/chat/MessageComposer.tsx, /src/components/chat/NewChatModal.tsx[22m
+[2m00:09:25[22m [31m[1m[vite][22m[39m [31mws proxy socket error:[39m
+Error: write ECONNABORTED
+    at afterWriteDispatched (node:internal/stream_base_commons:159:15)
+    at writeGeneric (node:internal/stream_base_commons:150:3)
+    at Socket._writeGeneric (node:net:1171:11)
+    at Socket._write (node:net:1183:8)
+    at writeOrBuffer (node:internal/streams/writable:570:12)
+    at _write (node:internal/streams/writable:499:10)
+    at Writable.write (node:internal/streams/writable:508:10)
+    at Socket.ondata (node:internal/streams/readable:1012:24)
+    at Socket.emit (node:events:509:28)
+    at Readable.read (node:internal/streams/readable:784:10)
+    at Socket.read (node:net:990:39)
+    at flow (node:internal/streams/readable:1290:53)
+    at emitReadable_ (node:internal/streams/readable:849:3)
+    at process.processTicksAndRejections (node:internal/process/task_queues:89:21)

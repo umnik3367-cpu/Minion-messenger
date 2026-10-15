@@ -1,0 +1,166 @@
+client\src\App.tsx:79: 🍌 | <div className="text-5xl animate-float">🍌</div>
+client\src\components\admin\AdminPanel.tsx:52: 👥 | ['👥', 'Users', 'users'],
+client\src\components\admin\AdminPanel.tsx:53: 🟢 | ['🟢', 'Online now', 'online'],
+client\src\components\admin\AdminPanel.tsx:54: 💬 | ['💬', 'Messages', 'messages'],
+client\src\components\admin\AdminPanel.tsx:55: 🗄 | ['🗄', 'Chats', 'chats'],
+client\src\components\admin\AdminPanel.tsx:56: 📞 | ['📞', 'Calls', 'calls'],
+client\src\components\admin\AdminPanel.tsx:57: ✨ | ['✨', 'New (24h)', 'newUsers24h'],
+client\src\components\admin\AdminPanel.tsx:58: 🤖 | ['🤖', 'AI requests', 'aiRequests'],
+client\src\components\admin\AdminPanel.tsx:59: 🧾 | ['🧾', 'Open reports', 'openReports'],
+client\src\components\admin\AdminPanel.tsx:67: ← | ←
+client\src\components\admin\AdminPanel.tsx:70: 🛡 | 🛡 Admin <span className="brand-gradient-text">Panel</span>
+client\src\components\admin\AdminPanel.tsx:73: ↻ | ↻ Refresh
+client\src\components\admin\AdminPanel.tsx:125: 🔍 | <Input value={query} onChange={(e) => void searchUsers(e.target.value)} placeholder="Search users…" icon="🔍" />
+client\src\components\admin\AdminPanel.tsx:164: → | push('success', `Role → ${role}`);
+client\src\components\admin\AdminPanel.tsx:196: 🎉 | {reports.length === 0 && <p className="text-sm text-on-muted text-center py-10">No reports — all clear 🎉</p>}
+client\src\components\ai\EnhanceToolbar.tsx:19: ✨ | { key: 'improve', icon: '✨', labelEn: 'Improve', labelRu: 'Улучшить' },
+client\src\components\ai\EnhanceToolbar.tsx:20: 📝 | { key: 'grammar', icon: '📝', labelEn: 'Fix grammar', labelRu: 'Грамматика' },
+client\src\components\ai\EnhanceToolbar.tsx:21: ✂ | { key: 'shorten', icon: '✂️', labelEn: 'Shorten', labelRu: 'Короче' },
+client\src\components\ai\EnhanceToolbar.tsx:22: ➕ | { key: 'expand', icon: '➕', labelEn: 'Expand', labelRu: 'Расширить' },
+client\src\components\ai\EnhanceToolbar.tsx:23: 🌍 | { key: 'translate', icon: '🌍', labelEn: 'Translate', labelRu: 'Перевести' },
+client\src\components\ai\EnhanceToolbar.tsx:103: ✨ | push('success', lang === 'ru' ? 'Текст обновлён ✨' : 'Text updated ✨');
+client\src\components\ai\MinionAI.tsx:94: ⚠ | return [...next, { role: 'assistant', content: `⚠️ ${(err as Error).message}` }];
+client\src\components\ai\MinionAI.tsx:104: ✍ | push('info', 'Type a draft first, then pick a tool ✍️');
+client\src\components\auth\AuthPage.tsx:80: 🍌 | <div className="h-11 w-11 rounded-2xl bg-white/20 backdrop-blur grid place-items-center text-2xl">🍌</div>
+client\src\components\auth\AuthPage.tsx:123: 🍌 | <div className="h-9 w-9 rounded-xl bg-brand-gradient grid place-items-center text-lg">🍌</div>
+client\src\components\calls\CallOverlay.tsx:218: ✕ | <RoundButton onClick={call.rejectCall} danger label="Decline call" size="lg">✕</RoundButton>
+client\src\components\calls\CallOverlay.tsx:219: 📞 | <RoundButton onClick={() => void call.acceptCall()} label="Accept call" size="lg">📞</RoundButton>
+client\src\components\calls\CallOverlay.tsx:224: 🎙 | {call.micOn ? '🎙' : '🔇'}
+client\src\components\calls\CallOverlay.tsx:235: 📹 | {call.camOn ? '📹' : '🚫'}
+client\src\components\calls\CallOverlay.tsx:239: 🖥 | <RoundButton onClick={() => void call.toggleScreenShare()} active={call.sharingScreen} label="Share your screen">🖥</RoundButton>
+client\src\components\calls\CallOverlay.tsx:240: 🔄 | <RoundButton onClick={() => void call.switchCamera()} label="Switch camera">🔄</RoundButton>
+client\src\components\calls\CallOverlay.tsx:251: ⚙ | ⚙️
+client\src\components\calls\CallOverlay.tsx:253: 📵 | <RoundButton onClick={call.endCall} danger label="End call" size="lg">📵</RoundButton>
+client\src\components\calls\CallOverlay.tsx:330: ✕ | ✕
+client\src\components\chat\ChatInfoModal.tsx:97: 📌 | push('info', activeChat.pinned ? (lang === 'ru' ? 'Откреплено' : 'Unpinned') : (lang === 'ru' ? 'Закреплено 📌' : 'Pinned 📌'));
+client\src\components\chat\ChatInfoModal.tsx:108: 🔕 | push('info', activeChat.muted ? (lang === 'ru' ? 'Звук включён' : 'Unmuted') : (lang === 'ru' ? 'Без звука 🔕' : 'Muted 🔕'));
+client\src\components\chat\ChatInfoModal.tsx:128: 📎 | {p.text ?? (lang === 'ru' ? '📎 вложение' : '📎 attachment')}
+client\src\components\chat\ChatWindow.tsx:55: ← | ←
+client\src\components\chat\ChatWindow.tsx:61: 📢 | {activeChat.type === 'CHANNEL' && '📢'}
+client\src\components\chat\ChatWindow.tsx:62: 👥 | {activeChat.type === 'GROUP' && '👥'}
+client\src\components\chat\ChatWindow.tsx:78: 📞 | 📞
+client\src\components\chat\ChatWindow.tsx:85: 📹 | 📹
+client\src\components\chat\ChatWindow.tsx:94: ️ | ℹ️
+client\src\components\chat\ChatWindow.tsx:97: ✕ | ✕
+client\src\components\chat\ChatWindow.tsx:125: ↪ | push('success', 'Forwarded ↪️');
+client\src\components\chat\ContactEditorButton.tsx:51: ✏ | ✏️
+client\src\components\chat\ContactEditorButton.tsx:88: ✕ | ✕
+client\src\components\chat\ForwardModal.tsx:64: ✓ | {checked ? '✓' : ''}
+client\src\components\chat\MessageBubble.tsx:9: 👍 | const QUICK_REACTIONS = ['👍', '❤️', '😂', '😮', '😢', '🔥'];
+client\src\components\chat\MessageBubble.tsx:46: 📄 | <span className="text-2xl">📄</span>
+client\src\components\chat\MessageBubble.tsx:53: ⬇ | <span className="ml-auto text-lg">⬇️</span>
+client\src\components\chat\MessageBubble.tsx:67: 🚫 | 🚫 This message was deleted
+client\src\components\chat\MessageBubble.tsx:105: 📎 | <span className="opacity-80 line-clamp-2">{message.replyTo.text ?? '📎 attachment'}</span>
+client\src\components\chat\MessageBubble.tsx:110: ↪ | <div className={cn('text-[10px] uppercase tracking-wide mb-1 opacity-70', mine ? '' : 'text-secondary')}>↪ Forwarded</div>
+client\src\components\chat\MessageBubble.tsx:133: ✓ | {mine && <span>✓✓</span>}
+client\src\components\chat\MessageBubble.tsx:174: ↩ | <MenuItem icon="↩️" label="Reply" onClick={onReply} />
+client\src\components\chat\MessageBubble.tsx:175: 📌 | <MenuItem icon="📌" label={message.pinned ? 'Unpin' : 'Pin'} onClick={onPin} />
+client\src\components\chat\MessageBubble.tsx:176: 🔖 | <MenuItem icon="🔖" label="Save" onClick={onSave} />
+client\src\components\chat\MessageBubble.tsx:177: ↪ | <MenuItem icon="↪️" label="Forward" onClick={onForward} />
+client\src\components\chat\MessageBubble.tsx:179: ✏ | <MenuItem icon="✏️" label="Edit" onClick={onEdit} />
+client\src\components\chat\MessageBubble.tsx:181: 🗑 | <MenuItem icon="🗑" label="Delete" onClick={onDelete} danger />
+client\src\components\chat\MessageComposer.tsx:17: 😀 | '😀','😂','🥰','😎','🤔','😭','🙌','🔥','🎉','❤️','👍','👀','🚀','✨','💯','🍌','☕','🌈','🍕','⚡','🤝','😅','🥳','😱','🤗','😇',
+client\src\components\chat\MessageComposer.tsx:160: 📢 | 📢 {t('chat.readOnly')}
+client\src\components\chat\MessageComposer.tsx:194: ✏ | {editing ? `✏️ ${t('chat.editing')}` : `↩️ ${t('chat.replyTo', { name: replyTo?.sender.displayName ?? '' })}`}
+client\src\components\chat\MessageComposer.tsx:199: ✕ | ✕
+client\src\components\chat\MessageComposer.tsx:224: 🗑 | 🗑
+client\src\components\chat\MessageComposer.tsx:327: ✨ | { label: `✨ ${t('ai.polish')}`, action: 'polish' as const },
+client\src\components\chat\MessageComposer.tsx:328: 🌍 | { label: `🌍 ${t('ai.translate')}`, action: 'translate' as const },
+client\src\components\chat\MessageComposer.tsx:329: 💡 | { label: `💡 ${t('chat.aiExpand')}`, action: 'ideas' as const },
+client\src\components\chat\MessageList.tsx:78: 📋 | push('success', lang === 'ru' ? 'Улучшенный текст скопирован 📋' : 'Improved text copied 📋');
+client\src\components\chat\MessageList.tsx:92: 👋 | <div className="text-4xl mb-2">👋</div>
+client\src\components\chat\MessageList.tsx:132: 🔖 | messagesService.save(m.id).then((saved) => push('success', saved ? 'Saved to bookmarks 🔖' : 'Removed from saved'))
+client\src\components\chat\NewChatModal.tsx:122: 💬 | ['people', `💬 ${t('newchat.chat')}`],
+client\src\components\chat\NewChatModal.tsx:123: 👥 | ['group', `👥 ${t('newchat.group')}`],
+client\src\components\chat\NewChatModal.tsx:124: 📢 | ['channel', `📢 ${t('newchat.channel')}`],
+client\src\components\chat\NewChatModal.tsx:125: 🔗 | ['join', `🔗 ${t('newchat.join')}`],
+client\src\components\chat\NewChatModal.tsx:148: 🔍 | <Input value={query} onChange={(e) => setQuery(e.target.value)} placeholder={t('newchat.search')} icon="🔍" />
+client\src\components\chat\NewChatModal.tsx:165: → | <span className="ml-auto text-primary text-sm">→</span>
+client\src\components\chat\NewChatModal.tsx:198: ✓ | {selected.has(c.user.id) ? '✓' : ''}
+client\src\components\chat\OutreachModal.tsx:51: ✅ | push(r.delivered ? 'success' : 'info', r.delivered ? (ru ? 'SMS отправлено ✅' : 'SMS sent ✅') : (ru ? `SMS не отправлено: ${r.reason ?? ''}` : `Not sent: ${r.reason ?? ''}`));
+client\src\components\chat\OutreachModal.tsx:54: ✅ | push(r.delivered ? 'success' : 'info', r.delivered ? (ru ? 'Письмо отправлено ✅' : 'E-mail sent ✅') : (ru ? `Письмо не отправлено: ${r.reason ?? ''}` : `Not sent: ${r.reason ?? ''}`));
+client\src\components\chat\SearchModal.tsx:48: 🔍 | <Input autoFocus value={query} onChange={(e) => setQuery(e.target.value)} placeholder="People, chats, messages, files…" icon="🔍" />
+client\src\components\chat\SearchModal.tsx:131: 📎 | <span className="text-xl">📎</span>
+client\src\components\chat\SearchModal.tsx:133: ↗ | <span className="ml-auto text-xs text-primary">open ↗</span>
+client\src\components\chat\ShakeButton.tsx:71: 📳 | {cooldown > 0 ? <span className="text-[10px] font-semibold text-primary">{cooldown}</span> : '📳'}
+client\src\components\chat\VoiceNote.tsx:52: 🎤 | if (!url) return <span className="text-sm opacity-70">🎤 Voice message unavailable</span>;
+client\src\components\chat\VoiceNote.tsx:64: ⚠ | {failed ? '⚠️' : playing ? '⏸' : '▶'}
+client\src\components\settings\LanguagePicker.tsx:4: ⇄ | /** Compact EN ⇄ Русский switcher used on the auth screen and in Settings. */
+client\src\components\settings\SettingsPanel.tsx:92: 📸 | push('success', 'Avatar updated 📸');
+client\src\components\settings\SettingsPanel.tsx:111: 👤 | ['profile', `👤 ${t('settings.profile')}`],
+client\src\components\settings\SettingsPanel.tsx:112: 🎨 | ['appearance', `🎨 ${t('settings.appearance')}`],
+client\src\components\settings\SettingsPanel.tsx:113: 🔔 | ['notifications', `🔔 ${t('settings.notifications')}`],
+client\src\components\settings\SettingsPanel.tsx:114: 🔒 | ['privacy', `🔒 ${t('settings.privacy')}`],
+client\src\components\settings\SettingsPanel.tsx:115: 👥 | ['contacts', `👥 ${t('settings.contacts')}${requests.incoming.length ? ` (${requests.incoming.length})` : ''}`],
+client\src\components\settings\SettingsPanel.tsx:154: 📸 | 📸 Change photo
+client\src\components\settings\SettingsPanel.tsx:221: 🛡 | 🛡 Admin panel
+client\src\components\settings\SettingsPanel.tsx:276: ✓ | {theme.id === th.id && <span className="text-primary">✓</span>}
+client\src\components\settings\SettingsPanel.tsx:328: 🌙 | ['dnd', '🌙 Do not disturb', 'Silence everything while active'],
+client\src\components\settings\SettingsPanel.tsx:329: 🔊 | ['sound', '🔊 Message sounds', 'Play a pop for new messages'],
+client\src\components\settings\SettingsPanel.tsx:330: 🖥 | ['desktop', '🖥 Desktop notifications', 'Browser notification banners'],
+client\src\components\settings\SettingsPanel.tsx:331: 📱 | ['push', '📱 Push notifications', 'Receive alerts when away'],
+client\src\components\settings\SettingsPanel.tsx:349: 🔔 | 🔔 Enable browser notifications
+client\src\components\settings\SettingsPanel.tsx:399: 👋 | push('success', 'Contact added 👋');
+client\src\components\settings\SettingsPanel.tsx:412: ✕ | ✕
+client\src\components\settings\SettingsPanel.tsx:421: 🔍 | <Input value={addQuery} onChange={(e) => setAddQuery(e.target.value)} placeholder="Search username…" icon="🔍" />
+client\src\components\settings\SettingsPanel.tsx:430: ✉ | push('success', 'Request sent ✉️');
+client\src\components\settings\SettingsPanel.tsx:466: ⭐ | {c.favorite ? '⭐' : '☆'}
+client\src\components\sidebar\ContactEditor.tsx:43: ✓ | push('success', 'Contact saved ✓');
+client\src\components\sidebar\ContactEditor.tsx:81: ★ | {favorite ? '★ Favourite' : '☆ Favourite'}
+client\src\components\sidebar\ContactEditor.tsx:88: 🚫 | {blocked ? '🚫 Blocked' : 'Block'}
+client\src\components\sidebar\Sidebar.tsx:61: 💬 | { key: 'all', icon: '💬', label: t('sidebar.sectionAll'), count: chats.length },
+client\src\components\sidebar\Sidebar.tsx:62: 🧑 | { key: 'direct', icon: '🧑', label: t('sidebar.sectionPeople'), count: counts.direct },
+client\src\components\sidebar\Sidebar.tsx:63: 👥 | { key: 'group', icon: '👥', label: t('sidebar.sectionGroups'), count: counts.group },
+client\src\components\sidebar\Sidebar.tsx:64: 📢 | { key: 'channel', icon: '📢', label: t('sidebar.sectionChannels'), count: counts.channel },
+client\src\components\sidebar\Sidebar.tsx:75: 🍌 | <div className="h-9 w-9 rounded-xl bg-brand-gradient grid place-items-center text-lg shadow-glow-sm">🍌</div>
+client\src\components\sidebar\Sidebar.tsx:166: 💬 | icon="💬"
+client\src\components\sidebar\Sidebar.tsx:172: → | {t('sidebar.newChat')} →
+client\src\components\sidebar\Sidebar.tsx:196: 📢 | {chat.type === 'CHANNEL' && <span className="text-on-muted">📢</span>}
+client\src\components\sidebar\Sidebar.tsx:197: 👥 | {chat.type === 'GROUP' && <span className="text-on-muted">👥</span>}
+client\src\components\sidebar\Sidebar.tsx:199: 🔕 | {chat.muted && <span title="Muted">🔕</span>}
+client\src\components\sidebar\Sidebar.tsx:209: 📎 | chat.lastMessage.text ?? `📎 ${chat.lastMessage.type.toLowerCase()}`
+client\src\components\sidebar\Sidebar.tsx:211: 👋 | : (chat.description ?? 'Say hello 👋')}
+client\src\components\sidebar\Sidebar.tsx:214: 📌 | {chat.pinned && <span className="text-[10px] text-on-muted">📌</span>}
+client\src\components\stickers\StickerPicker.tsx:50: ⭐ | emoji: '⭐',
+client\src\components\stickers\StickerPicker.tsx:53: ⭐ | await stickersService.createPack('My Stickers', [{ url, name: 'sticker-1', emoji: '⭐' }]);
+client\src\components\stickers\StickerPicker.tsx:55: ✨ | push('success', 'Sticker created! ✨');
+client\src\components\stickers\StickerPicker.tsx:95: 🖼 | No sticker packs yet — create one from any image! 🖼️
+client\src\components\stories\CreateStoryModal.tsx:38: ✨ | push('success', 'Story posted! ✨');
+client\src\components\stories\CreateStoryModal.tsx:53: ✨ | push('success', 'Story posted! ✨');
+client\src\components\stories\CreateStoryModal.tsx:72: 📝 | {t === 'text' ? '📝 Text' : '🖼 Photo / video'}
+client\src\components\stories\CreateStoryModal.tsx:122: 📸 | <div className="text-3xl mb-1">📸</div>
+client\src\components\stories\CreateStoryModal.tsx:145: 🗑 | 🗑 {s.type === 'TEXT' ? (s.text ?? '').slice(0, 14) : s.type}
+client\src\components\stories\StoryViewer.tsx:95: 🗑 | 🗑
+client\src\components\stories\StoryViewer.tsx:99: ✕ | ✕
+client\src\components\stories\StoryViewer.tsx:127: 👁 | 👁 {story.viewCount} view{story.viewCount === 1 ? '' : 's'}
+client\src\components\ui\Modal.tsx:51: ✕ | ✕
+client\src\hooks\useWebRTC.ts:4: → | *   caller  → POST /calls (get callId) → emit call:invite
+client\src\hooks\useWebRTC.ts:5: → | *   callee  → emit call:accept
+client\src\hooks\useWebRTC.ts:6: → | *   caller  → createOffer → emit call:signal
+client\src\hooks\useWebRTC.ts:7: → | *   callee  → setRemoteDescription → createAnswer → emit call:signal
+client\src\hooks\useWebRTC.ts:8: → | *   both    → relay ICE candidates via call:signal
+client\src\hooks\useWebRTC.ts:270: ⇄ | /** Front ⇄ back camera (phones) or another webcam. */
+client\src\i18n\index.tsx:57: ← | 'auth.backToLogin': '← Back to sign in',
+client\src\i18n\index.tsx:59: 📳 | 'auth.shakeSent': 'Shake sent! 📳',
+client\src\i18n\index.tsx:60: 📳 | 'auth.shakeReceived': 'Someone shook you! 📳',
+client\src\i18n\index.tsx:63: 🎉 | 'auth.registered': 'Welcome to Minion Messenger! 🎉',
+client\src\i18n\index.tsx:108: ✨ | 'chat.aiNeedText': 'Write something first, then ask Minion AI ✨',
+client\src\i18n\index.tsx:177: 🍌 | "Hey! I'm **Minion**, your built-in assistant 🍌\n\n- Ask me anything\n- Use the quick tools below\n- I can rewrite, translate and brainstorm with your drafts",
+client\src\i18n\index.tsx:221: 🎉 | 'newchat.createdGroup': 'Group created 🎉',
+client\src\i18n\index.tsx:222: 🎉 | 'newchat.createdChannel': 'Channel created 🎉',
+client\src\i18n\index.tsx:233: 🤖 | 'chat.aiUpdated': 'Minion AI updated your draft 🤖',
+client\src\i18n\index.tsx:234: 📎 | 'chat.attachment': '📎 attachment',
+client\src\i18n\index.tsx:284: ← | 'auth.backToLogin': '← Вернуться ко входу',
+client\src\i18n\index.tsx:286: 📳 | 'auth.shakeSent': 'Сотрясение отправлено! 📳',
+client\src\i18n\index.tsx:287: 📳 | 'auth.shakeReceived': 'Вас потрясли! 📳',
+client\src\i18n\index.tsx:290: 🎉 | 'auth.registered': 'Добро пожаловать в Minion Messenger! 🎉',
+client\src\i18n\index.tsx:333: ✨ | 'chat.aiNeedText': 'Сначала напишите текст, затем попросите Minion AI ✨',
+client\src\i18n\index.tsx:401: 🍌 | 'Привет! Я **Minion**, встроенный ассистент 🍌\n\n- Спросите меня о чём угодно\n- Используйте быстрые инструменты ниже\n- Я перепишу, переведу и придумаю идеи',
+client\src\i18n\index.tsx:445: 🎉 | 'newchat.createdGroup': 'Группа создана 🎉',
+client\src\i18n\index.tsx:446: 🎉 | 'newchat.createdChannel': 'Канал создан 🎉',
+client\src\i18n\index.tsx:457: 🤖 | 'chat.aiUpdated': 'Minion AI обновил ваш черновик 🤖',
+client\src\i18n\index.tsx:458: 📎 | 'chat.attachment': '📎 вложение',
+client\src\pages\MessengerPage.tsx:71: 🍌 | <div className="text-7xl mb-4 animate-float">🍌</div>
+client\src\pages\MessengerPage.tsx:79: ✏ | ✏️ {t('welcome.newChat')}
+client\src\pages\MessengerPage.tsx:83: 🤖 | 🤖 {t('welcome.askAi')}
+client\src\pages\MessengerPage.tsx:88: 🛡 | 🛡 {t('welcome.admin')}

@@ -1,0 +1,32 @@
+
+  ✨ Minion Messenger API running
+     REST     http://localhost:4000/api
+     Socket   ws://localhost:4000/socket.io
+     Health   http://localhost:4000/health
+     Uploads  C:\Users\ilyat\Desktop\626264323\server\uploads
+  
+  ✅ PostgreSQL connected
+prisma:error Error in PostgreSQL connection: Error { kind: Io, cause: Some(Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }) }
+prisma:error Error in PostgreSQL connection: Error { kind: Io, cause: Some(Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }) }
+prisma:error Error in PostgreSQL connection: Error { kind: Io, cause: Some(Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }) }
+prisma:error Error in PostgreSQL connection: Error { kind: Io, cause: Some(Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }) }
+prisma:error Error in PostgreSQL connection: Error { kind: Io, cause: Some(Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }) }
+prisma:error Error in PostgreSQL connection: Error { kind: Io, cause: Some(Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }) }
+prisma:error Error in PostgreSQL connection: Error { kind: Io, cause: Some(Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }) }
+prisma:error Error in PostgreSQL connection: Error { kind: Io, cause: Some(Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }) }
+prisma:error Error in PostgreSQL connection: Error { kind: Io, cause: Some(Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }) }
+prisma:error Error in PostgreSQL connection: Error { kind: Io, cause: Some(Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }) }
+prisma:error Error in PostgreSQL connection: Error { kind: Io, cause: Some(Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }) }
+prisma:error Error in PostgreSQL connection: Error { kind: Io, cause: Some(Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }) }
+prisma:error Error in PostgreSQL connection: Error { kind: Io, cause: Some(Os { code: 10054, kind: ConnectionReset, message: "Удаленный хост принудительно разорвал существующее подключение." }) }
+prisma:error 
+Invalid `.update()` invocation in
+C:\Users\ilyat\Desktop\626264323\server\dist\realtime\socket.handlers.js:125:22
+
+  122 const remaining = [...io.sockets.sockets.values()].filter((s) => s.data.userId === userId && s.id !== socket.id);
+  123 if (remaining.length === 0) {
+  124     await prisma_1.prisma.user
+→ 125         .update(
+Can't reach database server at `localhost:5432`
+
+Please make sure your database server is running at `localhost:5432`.

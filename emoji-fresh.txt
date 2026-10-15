@@ -1,0 +1,11 @@
+﻿client\src\components\chat\ForwardModal.tsx:64: {checked ? '✓' : ''}
+client\src\components\chat\MessageBubble.tsx:12: const QUICK_REACTIONS = ['👍', '❤️', '😂', '😮', '😢', '🔥'];
+client\src\components\chat\MessageComposer.tsx:17: '😀','😂','🥰','😎','🤔','😭','🙌','🔥','🎉','❤️','👍','👀','🚀','✨','💯','🍌','☕','🌈','🍕','⚡','🤝','😅','🥳','😱','🤗','😇',
+client\src\components\chat\NewChatModal.tsx:199: {selected.has(c.user.id) ? '✓' : ''}
+client\src\components\settings\SettingsPanel.tsx:468: {c.favorite ? '★' : '☆'}
+client\src\components\sidebar\ContactEditor.tsx:44: push('success', 'Contact saved ✓');
+client\src\components\sidebar\ContactEditor.tsx:82: {favorite ? '★ Favourite' : '☆ Favourite'}
+client\src\components\stickers\StickerPicker.tsx:50: emoji: '⭐',
+client\src\components\stickers\StickerPicker.tsx:53: await stickersService.createPack('My Stickers', [{ url, name: 'sticker-1', emoji: '⭐' }]);
+client\src\i18n\index.tsx:10: { code: 'en', label: 'English', flag: '🇬🇧' },
+client\src\i18n\index.tsx:11: { code: 'ru', label: 'Русский', flag: '🇷🇺' },

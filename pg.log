@@ -1,0 +1,3 @@
+   Reusing existing cluster in .pgdata/
+🐘 Embedded PostgreSQL ready on localhost:5432 (Ctrl+C to stop)
+   DATABASE_URL=postgresql://postgres:postgres@localhost:5432/minion_messenger?schema=public
