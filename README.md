@@ -171,6 +171,17 @@ Open **http://127.0.0.1:5173** (the dev server is bound to IPv4 loopback; `local
 > Using your own PostgreSQL? Create it with UTF-8 (required for emoji/unicode content):
 > `CREATE DATABASE minion_messenger ENCODING 'UTF8';` — then point `DATABASE_URL` at it and run `npm run db:setup`.
 
+### Demo accounts (created by the seed)
+| E-mail | Password | Role |
+|---|---|---|
+| `admin@minion.me` | `Password123!` | admin |
+| `amy@minion.me` | `Password123!` | user |
+| `ben@minion.me` | `Password123!` | user |
+| `zoe@minion.me` | `Password123!` | user |
+
+Sign in as **amy** in one browser and **ben** in another (or a private window) to see realtime delivery, typing indicators and calls.
+---
+
 ## 🏗 Project structure
 
 ```
